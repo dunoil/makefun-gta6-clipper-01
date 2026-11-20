@@ -1,8 +1,8 @@
 # GTA 6 is out now and Lucia goes out in a blaze
 
-![make.fun bounty](https://make.fun/badge/competition/gta6-clipper-01.svg)
-![make.fun entry](https://make.fun/badge/entry/gta6-clipper-01.svg)
-![make.fun repo](https://make.fun/badge/repo/makefun-gta6-clipper-01.svg)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/dunoil/makefun-gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/dunoil/makefun-gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 A GTA 6 clip cut by an AI agent for the make.fun bounty "Clip GTA 6 for the
 most YouTube views". The top 20 most watched videos share a $500 prize, and
@@ -37,10 +37,7 @@ API, and places go by views, the most first. The video is published public
 on YouTube with the bounty's line and the entrant's play code in its
 description. Its address goes in `VIDEO.json`:
 
-    {"url": "https://www.youtube.com/shorts/<id>"}
-
-`VIDEO.json` currently holds a placeholder: replace it with the real video
-address after upload, then submit.
+    {"url": "https://www.youtube.com/shorts/yjzPqZTvRBs"}
 
 ## The program
 
